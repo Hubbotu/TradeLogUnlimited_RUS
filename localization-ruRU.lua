@@ -27,7 +27,7 @@ TRADE_LOG_RECEIVE = "получили";
 TRADE_LOG_ENCHANT = "наложение чар";
 TRADE_LOG_ITEM_NUMBER = "%d предметы";
 TRADE_LOG_CHANNELS = {
-	whisper = "Шепнуть",
+	whisper = "шептать",
 	raid = "Рейд",
 	party = "Группа",
 	say = "Сказать",
@@ -71,7 +71,7 @@ TRADE_LIST_HEADER_RESULT = "Результат"
 
 TRADE_LIST_CLEAR_CONFIRM = "Записи до сегодняшнего дня будут полностью очищены!";
 
-TRADE_LIST_TITLE = "Журнал Торговли"
+TRADE_LIST_TITLE = "Торговый журнал неограничен"
 TRADE_LIST_DESC = "Показать последние журналы торговли или причины неудачных сделок."
 
 end
